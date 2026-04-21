@@ -1,0 +1,11 @@
+Swalley Valley=Swalley Valley is a beautiful place filled with mountains, deserts, rainforests, and wild animals.
+Grey Spike Valley=Grey Spike Valley is always grey, full of chaos and anger as warriors battle for the Empire Castle.
+Hallow Valley=Hallow Valley is a peaceful location filled with love.
+Knight's Hill=A windy hilltop where knights once trained under stormy skies.
+Stone Tower=An ancient tower of cold stone, overlooking the land.
+Old Port=An abandoned harbor where forgotten ships once sailed.
+Stone Bridge=A massive stone bridge connecting the great valleys.
+Ravencliff Tower=A dark tower perched on the edge of a deadly cliff.
+Willow Village=A quiet village surrounded by tall whispering willow trees.
+Hawthorne Castle=A grand medieval castle with towering spires.
+King's Village=The main village of the kingdom ruled by the High King.
